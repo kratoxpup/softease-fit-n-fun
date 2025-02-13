@@ -1,13 +1,13 @@
 {
-  "name": "com.vrchat.demo-template",
-  "displayName": "VRChat Example Package",
-  "version": "0.0.7",
+  "name": "com.kratox.softease-fit-n-fun",
+  "displayName": "Softease Fit n Fun",
+  "version": "0.0.1",
   "unity": "2022.3",
-  "description": "Simple Package for testing Automation",
+  "description": "Softease textures and more",
   "vrchatVersion": "2022.1.1",
   "author": {
-    "name": "Momo the Monster",
-    "email": "momodmonster@gmail.com",
-    "url": "https://mmmlabs.com"
+    "name": "Kratox",
+    "email": "Join disocrd",
+    "url": "https://poofy.land"
   }
 }
